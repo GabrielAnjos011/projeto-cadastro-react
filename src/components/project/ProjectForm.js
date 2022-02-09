@@ -4,7 +4,7 @@ import Input from "../form/Input";
 import Select from "../form/Select";
 import SubmitButton from "../form/SubmitButton";
 
-function ProjetoForm({ btnText, handleSubmit, projectData }) {
+function ProjectForm({ btnText, handleSubmit, projectData }) {
   const [categories, setCategories] = useState([]);
   const [project, setProject] = useState(projectData || {});
 
@@ -70,4 +70,4 @@ function ProjetoForm({ btnText, handleSubmit, projectData }) {
   );
 }
 
-export default ProjetoForm;
+export default ProjectForm;

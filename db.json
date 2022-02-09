@@ -1,7 +1,40 @@
 {
   "projects": [
     {
-      "name": "Procura um Desenvolvedor FullStack",
+      "name": "Back-End Pleno",
+      "budget": "16000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Front-End junior",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Back-End junior",
+      "budget": "2499",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "Dev Java",
       "budget": "5000",
       "category": {
         "id": "2",
@@ -9,7 +42,18 @@
       },
       "cost": 0,
       "services": [],
-      "id": 1
+      "id": 6
+    },
+    {
+      "name": "UI/UX",
+      "budget": "4000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
     }
   ],
   "categories": [
